@@ -14,7 +14,7 @@ Hafif, hızlı ve kullanıcı dostu bir Minecraft başlatıcısı. Özellikle es
 *   **Ely.by Entegrasyonu:** Hesap girişi, karakter ve skin yönetimi.
 
 ### 💾 Yedekleme ve İstatistikler (v0.04 Yenilikleri)
-*   **Lokal Dünya Yedekleme:** Oyun her kapandığında dünyaların otomatik olarak bilgisayara yedeklenmesi.
+*   **Manuel Dünya Yedekleme:** Tek bir tuşa basarak dünyalarınızın yedeğini alın. İstediğiniz zaman eski bir yedeğe tek tıkla geri dönün.
 *   **Akıllı Bulut Yedekleme:** Bilgisayarınızda kurulu olan OneDrive, Google Drive veya Dropbox klasörlerini otomatik algılar ve yedeklerinizi doğrudan o klasörlere kaydeder. Ekstra hesap girişi gerektirmez, arka planda buluta senkronize olur.
 *   **Toplam Oyun Süresi Takibi:** Launcher üzerinden toplam oynama süresini görme.
 *   **Sürümlere Göre Oynama Süresi:** Hangi Minecraft sürümünü ne kadar oynadığını ayrı ayrı görme.
