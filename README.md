@@ -28,3 +28,5 @@ Hafif, hızlı ve kullanıcı dostu bir Minecraft başlatıcısı. Özellikle es
 ## 📥 Kurulum ve Güncelleme
 En son sürümü sağ taraftaki **Releases** sekmesinden indirebilirsiniz. 
 *Not: Otomatik güncelleme özelliği ilk kez v0.05 sürümünde geldi, ancak kararlı hale gelmesi v0.06 sürümünü buldu. Eğer v0.06 veya daha eski bir sürüm kullanıyorsanız, güncellemeyi bir kez manuel indirmeniz gerekebilir. v0.06 ve sonrası tüm cihazlarda otomatik olarak çalışacaktır.*
+> ⚠️ **Önemli Not (Test Aşaması):**
+> Bu proje şu an **aktif geliştirme ve test aşamasındadır**. Sürümler yalnızca tek bir bilgisayarda (geliştirici ortamında) test edilmiştir. Farklı bilgisayarlarda, farklı Windows sürümlerinde veya donanımlarda beklenmeyen hatalar (örneğin arayüzün açılmaması veya çift pencere açılması) yaşanabilir. Geri bildirimleriniz bu hataların çözülmesi için çok değerlidir.
